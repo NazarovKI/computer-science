@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showLineNumber": true,
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}

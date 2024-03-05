@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "2b79211e65c785eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "553ee792304c4810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0695c7b9afb03702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c8277b6559f997f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4af3fc5ecc9ddfb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c35ba43bfa4d70cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c18b42f48bf903a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87eeb541dbc424a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.5
+  },
+  "right": {
+    "id": "2cb743df6127cd3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a111b09cb4a016c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91667dfe65b98234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bca73654cee6351f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45e9b6957bece2a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd3fbd0f53cdeea6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "2de013e12d865fb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "workspaces:Пространства": false
+    }
+  },
+  "active": "c35ba43bfa4d70cf",
+  "lastOpenFiles": [
+    "педагогика/Модель-современного-урока-в-контексте-ФГОС-СПО.pdf",
+    "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf",
+    "daily/Методика.md",
+    "педагогика/sovremennye-kommemorativnye-praktiki-obrazovatelnyy-i-vospitatelnyy-potentsial.pdf",
+    "педагогика/pravoslavie-kak-instrument-sotsializatsii-i-vospitaniya-lichnosti-v-usloviyah-sovremennoy-rossii.pdf",
+    "pdf/lemov 1.pdf",
+    "педагогика/lemov.pdf",
+    "педагогика/grazhdanskaya-identichnost-v-polikulturnom-obrazovatelnom-prostranstve-v-kontekste-idey-v-a-suhomlinskogo.pdf",
+    "english_ktp.md",
+    "Моделирование живой клетки.md",
+    "index.md",
+    "lessons/factory_business_game.md",
+    "lessons/variables_assignment_operator.md",
+    "lessons/repetition_algorithmic_construction.md",
+    "Модель современного урока.md",
+    "Объект класс экземпляр.md",
+    "images/[1234].png",
+    "Дуг Лемов. Мастерство учителя..md",
+    "lessons/logical_operations.md",
+    "lessons/formal_execution.md",
+    "lessons/algorithm_concept_executors.md",
+    "lessons",
+    "lessons/number_systems.md",
+    "lessons/algorithm_properties_write.md",
+    "lessons/truth_tables.md",
+    "Робот-сапёр.md",
+    "8. Logical operations \"and\", \"or\", \"not\".md",
+    "pdf/modelirovanie_zhivoi_kletki.pdf",
+    "pdf/informatsionnaya-model-i-zadachi-optimizatsii-protsessa-borby-s-lesnymi-pozharami.pdf",
+    "pdf",
+    "semakin/Основы логики: логические величины и формулы.md",
+    "semakin/Логические функции и абсолютные адреса.md",
+    "Урок.1.canvas",
+    "daily/2024-02-26.md",
+    "12 Лекций. Кушнеренко.md",
+    "1.Непозиционные.md",
+    "semakin/Контрольное тестирование.md",
+    "semakin/Информационное моделирование на компьютере.md",
+    "images/159б_.png",
+    "images/159б.png",
+    "images/159а_.png",
+    "images/159а.png",
+    "images/144.webp",
+    "images/Выражение.png",
+    "images/Таблица.png",
+    "images/Блок-схема.png",
+    "images/Условие задачи.png",
+    "Урок.canvas"
+  ]
+}
