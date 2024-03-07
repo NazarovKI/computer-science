@@ -1,7 +1,7 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
+    "user": "NazarovKI",
+    "repo": "computer-science",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
@@ -18,11 +18,11 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 4998
   },
   "upload": {
-    "behavior": "fixed",
+    "behavior": "obsidian",
     "defaultName": "",
     "rootFolder": "",
     "yamlFolderKey": "",
@@ -48,7 +48,7 @@
   },
   "conversion": {
     "hardbreak": false,
-    "dataview": true,
+    "dataview": false,
     "censorText": [],
     "tags": {
       "inline": false,
@@ -56,7 +56,7 @@
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
       "wiki": true,
       "slugify": "disable"
@@ -69,7 +69,8 @@
     "notes": false,
     "folder": "",
     "convertEmbedToLinks": "keep",
-    "charConvert": "->"
+    "charConvert": "->",
+    "useObsidianFolder": true
   },
   "plugin": {
     "shareKey": "share",
@@ -90,7 +91,8 @@
     "noticeError": false,
     "displayModalRepoEditing": false,
     "setFrontmatterKey": "Set",
-    "migrated": true
+    "migrated": true,
+    "saveTabId": false
   },
-  "tabsID": "text-conversion"
+  "tabsID": "github-configuration"
 }

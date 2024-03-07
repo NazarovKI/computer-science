@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "algorithm_concept_executors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c6e22c133f44304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_concept_executors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 200
   },
   "right": {
     "id": "2cb743df6127cd3a",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf",
+                "file": "algorithm_concept_executors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf",
+                "file": "algorithm_concept_executors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf"
+                "file": "algorithm_concept_executors.md"
               }
             }
           },
@@ -159,46 +172,46 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "c35ba43bfa4d70cf",
+  "active": "2c6e22c133f44304",
   "lastOpenFiles": [
-    "педагогика/Модель-современного-урока-в-контексте-ФГОС-СПО.pdf",
-    "pdf/Модель-современного-урока-в-контексте-ФГОС-СПО 1.pdf",
+    "number_systems.md",
+    "index.md",
+    "lessons/number_systems.md",
+    "factory_business_game.md",
+    "algorithm_properties_write.md",
+    "algorithm_concept_executors.md",
+    "truth_tables.md",
+    "repetition_algorithmic_construction.md",
+    "README.md",
+    "logical_operations.md",
+    "variables_assignment_operator.md",
+    "docs/Модель современного урока.md",
+    "formal_execution.md",
+    "lessons/formal_execution.md",
+    "lessons",
+    "pdf/lemov.pdf",
+    "docs/english_ktp.md",
+    "pdf/8_kl_bosova.pdf",
+    "pdf/7_kl_bosova.pdf",
+    "pdf/2.pdf",
+    "pdf/1.pdf",
+    "docs/meandr.fil",
+    "docs/12 Лекций. Кушнеренко.md",
+    "docs/Моделирование живой клетки.md",
+    "docs/Дуг Лемов. Мастерство учителя..md",
+    "docs/Последовательность коллатца.ods",
+    "pdf/Чарльз Петцольд - Код_ тайный язык информатики-Манн, Иванов и Фербер (2019).pdf",
+    "pdf/Сетевые модели.pdf",
     "daily/Методика.md",
-    "педагогика/sovremennye-kommemorativnye-praktiki-obrazovatelnyy-i-vospitatelnyy-potentsial.pdf",
-    "педагогика/pravoslavie-kak-instrument-sotsializatsii-i-vospitaniya-lichnosti-v-usloviyah-sovremennoy-rossii.pdf",
-    "pdf/lemov 1.pdf",
-    "педагогика/lemov.pdf",
-    "педагогика/grazhdanskaya-identichnost-v-polikulturnom-obrazovatelnom-prostranstve-v-kontekste-idey-v-a-suhomlinskogo.pdf",
     "english_ktp.md",
     "Моделирование живой клетки.md",
-    "index.md",
     "lessons/factory_business_game.md",
     "lessons/variables_assignment_operator.md",
     "lessons/repetition_algorithmic_construction.md",
     "Модель современного урока.md",
     "Объект класс экземпляр.md",
     "images/[1234].png",
-    "Дуг Лемов. Мастерство учителя..md",
-    "lessons/logical_operations.md",
-    "lessons/formal_execution.md",
-    "lessons/algorithm_concept_executors.md",
-    "lessons",
-    "lessons/number_systems.md",
-    "lessons/algorithm_properties_write.md",
-    "lessons/truth_tables.md",
-    "Робот-сапёр.md",
-    "8. Logical operations \"and\", \"or\", \"not\".md",
-    "pdf/modelirovanie_zhivoi_kletki.pdf",
-    "pdf/informatsionnaya-model-i-zadachi-optimizatsii-protsessa-borby-s-lesnymi-pozharami.pdf",
-    "pdf",
-    "semakin/Основы логики: логические величины и формулы.md",
-    "semakin/Логические функции и абсолютные адреса.md",
     "Урок.1.canvas",
-    "daily/2024-02-26.md",
-    "12 Лекций. Кушнеренко.md",
-    "1.Непозиционные.md",
-    "semakin/Контрольное тестирование.md",
-    "semakin/Информационное моделирование на компьютере.md",
     "images/159б_.png",
     "images/159б.png",
     "images/159а_.png",
