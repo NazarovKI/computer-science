@@ -1,5 +1,5 @@
-title: "honey"
-description: родительская школа
+title: "computer-science"
+description: уроки информатики
 author: "Кирилл Назаров"
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
@@ -8,7 +8,7 @@ plugins:
 - jekyll-github-metadata
 
 # Для GitHub Pages (проектный сайт)
-baseurl: "/honey"
+baseurl: "/computer-science"
 url: "https://nazarovki.github.io"
 
 # Настройки по умолчанию
@@ -24,11 +24,4 @@ defaults:
       permalink: "/:year/:month/:day/:title/"
 
 collections:
-  notes:
-    output: true
-    permalink: /notes/:path/
-
-# _config.yml
-mermaid:
-  initialize: # сюда можно передать JSON-объект с настройками Mermaid
-    theme: 'dark'
+  - lessons
