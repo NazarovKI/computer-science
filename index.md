@@ -5,13 +5,6 @@ title: Уроки информатики
 date: 2026-06-08
 ---
 ---
-layout: default
-title: "Все уроки информатики"
-permalink: /lessons/
----
-
-<h1>{{ page.title }}</h1>
-
 <ul>
   {% for lesson in site.lessons %}
     <li>
