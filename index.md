@@ -4,25 +4,17 @@ published: true
 title: Уроки информатики
 date: 2026-06-08
 ---
----
-<ul>
-  {% for lesson in site.lessons %}
-    <li>
-      <a href="{{ lesson.url | relative_url }}">
-        <h2>{{ lesson.title }}</h2>
-      </a>
-      {% if lesson.excerpt %}
-        <p>{{ lesson.excerpt }}</p>
-      {% endif %}
-      <p><small>Дата: {{ lesson.date | date: "%d.%m.%Y" }}</small></p>
-      <p>
-        {% for tag in lesson.tags %}
-          <span class="tag">#{{ tag }}</span>
-        {% endfor %}
-      </p>
-    </li>
-  {% endfor %}
-</ul>
+## Уроки
+
+{% for lesson in site.lessons %}
+  - <b>{{ lesson.date | default: "Без даты" | date: "%Y-%m-%d" }}</b>:
+    [{{ lesson.title }}]({{ lesson.url | relative_url }})  
+    {% if lesson.excerpt %}<span style="color:#666;font-size:0.9em;">{{ lesson.excerpt }}</span>{% endif %}
+{% endfor %}
+
+{% if site.lessons.size == 0 %}
+  <p>Пока нет ни одного урока. Создай файл в папке _lessons/ с названием nazvanie-uroka.md</p>
+{% endif %}
 ## Последние исследования
 
 {% for post in site.posts limit:100 %}
