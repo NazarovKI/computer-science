@@ -11,7 +11,7 @@ date: 2026-06-08
 
 {% for post in site.posts limit:100 %}
   - <b>{{ post.date | date: "%Y-%m-%d" }}</b>: 
-    [{{ post.title }}](/honey{{ post.url }})
+    [{{ post.title }}](/computer-science{{ post.url }})
 {% endfor %}
 
 {% if site.posts.size == 0 %}
