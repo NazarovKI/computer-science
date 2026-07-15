@@ -4,9 +4,6 @@ published: true
 title: Уроки информатики
 date: 2026-06-08
 ---
-{% for project in site.projects %}
-  <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
-{% endfor %}
 ## Последние исследования
 
 {% for post in site.posts limit:100 %}

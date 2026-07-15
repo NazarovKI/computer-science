@@ -23,5 +23,12 @@ defaults:
       # Это ключ! Посты будут по адресу /2026/07/05/go/
       permalink: "/:year/:month/:day/:title/"
 
+# _config.yml
+
+# ... остальные настройки (title, description и т.д.) ...
+
+# Настройка коллекции для уроков
 collections:
-  - lessons
+  lessons:
+    output: true
+    permalink: /:collection/:path/
